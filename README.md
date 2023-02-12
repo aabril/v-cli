@@ -9,8 +9,8 @@ V is a statically typed compiled programming language designed for building main
 
 ## Goals
 
-- [*] Create a simple cli and add subcommands
-- [*] use modules
+- [x] Create a simple cli and add subcommands
+- [x] use modules
 
 - [ ] Do a request to any API, and show it up on the stdout
 - [ ] Add a few tests to see how it works
