@@ -14,6 +14,7 @@ V is a statically typed compiled programming language designed for building main
 
 - [ ] Do a request to any API, and show it up on the stdout
 - [ ] Add a few tests to see how it works
+- [ ] Implement a word counting for each file on a folder to try concurrency
 
 - [ ] ...more learnings comming
 
